@@ -75,6 +75,15 @@ https://x.com/0xfirmanregar/status/1859620314126352519
 
 ---
 
+## 100 Days of DeFi Incident Study
+
+A structured learning project analyzing historical DeFi exploits to improve vulnerability pattern recognition.
+
+See:
+100-days-defi-incident-study.md
+
+---
+
 ## Security Research Profile
 
 Learn more about my background and research focus:
