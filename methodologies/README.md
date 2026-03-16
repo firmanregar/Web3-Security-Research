@@ -14,7 +14,7 @@ This directory includes research on security analysis methodologies such as:
 * Security review workflows
 * Research methodologies for vulnerability discovery
 
-One example included in this repository is the **ULTRA-P Audit Framework**, which outlines a systematic approach to analyzing smart contract systems.
+One example included in this repository is the **ULTRA-PREMIUM Audit Framework**, which outlines a systematic approach to analyzing smart contract systems.
 
 ## Purpose
 
