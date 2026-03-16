@@ -42,6 +42,10 @@ One of my primary research frameworks is **ULTRA-PREMIUM**, a structured audit a
 - Threat modeling adversarial scenarios
 - Simulating composable attacks such as flashloan exploits
 
+## Publications
+
+- Web3 Security Essentials: Your Journey and Roadmap to Mastering the Art and Science of Smart Contract Security
+
 ## Long-Term Vision
 
 My goal is to contribute to the security of the decentralized ecosystem while helping advance the field of AI-assisted smart contract auditing.
