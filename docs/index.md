@@ -4,6 +4,11 @@ Welcome to the Web3 Security Research Lab — a research initiative focused on e
 
 This repository documents ongoing research into vulnerability discovery, exploit intelligence, and security methodologies for decentralized systems.
 
+**Researcher:** Firman Siregar  
+**Focus:** Smart Contract Security · DeFi Exploit Intelligence · AI-Assisted Auditing  
+
+Exploring vulnerability discovery, protocol threat modeling, and AI-augmented security research for decentralized systems.
+
 ---
 
 ## Research Areas
