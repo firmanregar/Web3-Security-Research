@@ -112,6 +112,14 @@ See:
 
 ---
 
+## Research Lab
+
+This repository operates as a personal Web3 security research lab.
+
+See: RESEARCH_LAB.md
+
+---
+
 ## Security Research Profile
 
 Learn more about my background and research focus:
