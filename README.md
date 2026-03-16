@@ -25,7 +25,8 @@ Maintained by **Firman Siregar**, a smart contract security researcher exploring
 - 🔬 Security Research → security-research/  
 - 🤖 AI Security Research → ai-security-research/  
 - 🧪 AI Security Audit Frameworks → ai-security-audit-frameworks/  
-- 📊 Exploit Case Studies → exploit-case-studies/  
+- 📊 100 Days Learning DeFi Incident → exploit-case-studies/100-days-defi-incident-study.md  
+- 🧠 DeFi Exploit Intelligence Lab → exploit-case-studies/defi-exploit-intelligence-lab.md
 
 ### Practical Work
 
