@@ -46,6 +46,12 @@ One of my primary research frameworks is **ULTRA-PREMIUM**, a structured audit a
 
 - Web3 Security Essentials: Your Journey and Roadmap to Mastering the Art and Science of Smart Contract Security
 
+## Research Roadmap
+
+See the long-term research direction here:
+
+RESEARCH_ROADMAP.md
+
 ## Long-Term Vision
 
 My goal is to contribute to the security of the decentralized ecosystem while helping advance the field of AI-assisted smart contract auditing.
