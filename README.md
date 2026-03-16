@@ -1,4 +1,7 @@
 # Smart Contract Security Research
+Research Homepage:
+https://firmanregar.github.io/Web3-Security-Research/
+
 ![Research](https://img.shields.io/badge/Research-Smart%20Contract%20Security-blue)
 ![Focus](https://img.shields.io/badge/Focus-DeFi%20Security-purple)
 ![AI](https://img.shields.io/badge/AI-Assisted%20Auditing-green)
@@ -15,6 +18,7 @@ Maintained by **Firman Siregar**, a smart contract security researcher exploring
 - 📄 Research Profile → SECURITY_RESEARCH_PROFILE.md  
 - 🧠 Research Philosophy → RESEARCH_MANIFESTO.md  
 - 🧭 Research Roadmap → RESEARCH_ROADMAP.md  
+- 📚 Research Index → RESEARCH_INDEX.md
 
 ### Research Work
 
@@ -30,7 +34,7 @@ Maintained by **Firman Siregar**, a smart contract security researcher exploring
 
 ### Knowledge & Learning
 
-- 📚 Knowledge Base → knowledge-base/  
+- 📚 Vulnerability Patterns → vulnerability-patterns/
 - 🧩 Methodologies → methodologies/  
 
 ### Publications
@@ -54,16 +58,45 @@ This repository serves as a personal knowledge base and research hub covering:
 
 ---
 
+## Featured Research
+
+A selection of key research work from this repository.
+
+### AI-Assisted DeFi Attack Surface Mapping
+Explores how AI can assist auditors in identifying protocol attack surfaces during early-stage security reviews.
+
+ai-security-experiments/defi-attack-surface-mapper.md
+
+### AI Audit Hypothesis Generation
+Research experiment exploring how AI can generate vulnerability hypotheses to support smart contract auditing workflows.
+
+ai-security-experiments/ai-audit-hypothesis-generator.md
+
+### DeFi Exploit Case Studies
+Structured analysis of real-world DeFi exploits to identify recurring vulnerability patterns.
+
+exploit-case-studies/
+
+### AI Exploit Reconstruction
+Experiment exploring whether AI can reconstruct historical DeFi exploits and extract vulnerability intelligence.
+
+ai-security-experiments/ai-exploit-reconstruction.md
+
+---
+
 ## Repository Structure
 
 * **publications/** – books and educational materials on Web3 security
 * **audit-reports/** – protocol-level security analyses and audit-style reports
 * **contest-findings/** – vulnerability findings from security competitions
 * **security-research/** – technical research articles on smart contract security
-* **ai-security-research/** – exploration of AI-assisted auditing techniques
-* **ai-security-audit-frameworks/** – structured frameworks for LLM-based auditing
+* **exploit-case-studies/** – structured analysis of historical DeFi exploits
+* **vulnerability-patterns/** – recurring vulnerability and attack patterns
+* **ai-security-research/** – research on AI-assisted auditing workflows
+* **ai-security-experiments/** – experimental AI security research projects
+* **ai-security-audit-frameworks/** – structured frameworks for LLM-assisted auditing
+* **ai-audit-demos/** – small demonstrations of AI-assisted audit workflows
 * **methodologies/** – structured approaches to smart contract security analysis
-* **vulnerability-patterns/** – vulnerability patterns, exploit techniques, and security insights
 
 ---
 
@@ -116,7 +149,7 @@ See:
 
 This repository operates as a personal Web3 security research lab.
 
-See: RESEARCH_LAB.md
+See: RESEARCH_LABS.md
 
 ---
 
