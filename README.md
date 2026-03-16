@@ -6,10 +6,38 @@
 ![Status](https://img.shields.io/badge/Status-Active%20Research-brightgreen)
 ![Publication](https://img.shields.io/badge/Publication-Web3%20Security%20Essentials-yellow)
 
-A curated research repository focused on smart contract security, DeFi protocol risk analysis, and AI-assisted auditing methodologies.
+A curated research repository exploring smart contract security, DeFi protocol risk analysis, and AI-assisted auditing methodologies.
 
 Maintained by **Firman Siregar**, a smart contract security researcher exploring vulnerability discovery, protocol threat modeling, and the future of AI-assisted security analysis.
 
+## Quick Navigation
+
+- 📄 Research Profile → SECURITY_RESEARCH_PROFILE.md  
+- 🧠 Research Philosophy → RESEARCH_MANIFESTO.md  
+- 🧭 Research Roadmap → RESEARCH_ROADMAP.md  
+
+### Research Work
+
+- 🔬 Security Research → security-research/  
+- 🤖 AI Security Research → ai-security-research/  
+- 🧪 AI Audit Prompt Packs → ai-audit-prompt-packs/  
+- 📊 Exploit Case Studies → exploit-case-studies/  
+
+### Practical Work
+
+- 🛡️ Audit Reports → audit-reports/  
+- 🏆 Contest Findings → contest-findings/  
+
+### Knowledge & Learning
+
+- 📚 Knowledge Base → knowledge-base/  
+- 🧩 Methodologies → methodologies/  
+
+### Publications
+
+- 📘 Web3 Security Essentials  
+  publications/
+  
 ---
 
 ## Overview
