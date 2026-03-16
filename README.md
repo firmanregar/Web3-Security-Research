@@ -1,65 +1,68 @@
-# Firman Siregar — Web3-Security-Research
-Smart contract security research portfolio focused on identifying vulnerabilities in DeFi protocols through structured auditing, threat modeling, and AI-assisted analysis.
+# Smart Contract Security Research
 
-## Background
+A curated research repository focused on smart contract security, DeFi protocol risk analysis, and AI-assisted auditing methodologies.
 
-I transitioned into smart contract security research after a career in strategic consulting and corporate planning. My focus today is securing Web3 protocols by combining traditional risk analysis with modern blockchain security techniques.
-
-## Areas of Interest
-
-- DeFi protocol security
-- Flashloan attack vectors
-- Smart contract accounting bugs
-- Protocol invariant violations
-- AI-assisted smart contract auditing
-
-## Competitive Auditing
-
-I actively participate in smart contract auditing contests on platforms such as:
-
-- Code4rena
-- CodeHawks
-- Sherlock
-
-These competitions provide real-world opportunities to analyze production-grade protocols and identify critical vulnerabilities.
-
-## Research Work
-
-This repository contains:
-
-- Security research articles
-- Audit reports and protocol analyses
-- Contest findings and vulnerability writeups
-- AI-assisted auditing experiments
-- My ULTRA-PREMIUM structured auditing methodology
-
-## Methodology
-
-One of my primary research frameworks is **ULTRA-PREMIUM**, a structured audit approach that focuses on:
-
-- Understanding protocol logic deeply
-- Locating high-risk attack surfaces
-- Threat modeling adversarial scenarios
-- Simulating composable attacks such as flashloan exploits
-
-## Publications
-
-- Web3 Security Essentials: Your Journey and Roadmap to Mastering the Art and Science of Smart Contract Security
-
-## Research Roadmap
-
-See the long-term research direction here:
-RESEARCH_ROADMAP.md
-
-## Research Philosophy
-
-See my approach to smart contract security research:
-RESEARCH_MANIFESTO.md
-
-## Long-Term Vision
-
-My goal is to contribute to the security of the decentralized ecosystem while helping advance the field of AI-assisted smart contract auditing.
+Maintained by **Firman Siregar**, a smart contract security researcher exploring vulnerability discovery, protocol threat modeling, and the future of AI-assisted security analysis.
 
 ---
 
-If you are interested in collaborating on security research or audits, feel free to connect.
+## Overview
+
+The goal of this repository is to document research, methodologies, and practical security insights related to decentralized applications and blockchain protocols.
+
+This repository serves as a personal knowledge base and research hub covering:
+
+* smart contract vulnerability patterns
+* DeFi protocol attack surfaces
+* security auditing methodologies
+* AI-assisted vulnerability analysis
+* protocol threat modeling
+
+---
+
+## Repository Structure
+
+* **publications/** – books and educational materials on Web3 security
+* **audit-reports/** – protocol-level security analyses and audit-style reports
+* **contest-findings/** – vulnerability findings from security competitions
+* **security-research/** – technical research articles on smart contract security
+* **ai-security-research/** – exploration of AI-assisted auditing techniques
+* **ai-audit-prompt-packs/** – structured prompt frameworks for LLM-based auditing
+* **methodologies/** – structured approaches to smart contract security analysis
+* **knowledge-base/** – vulnerability patterns, exploit techniques, and security insights
+
+---
+
+## Research Philosophy
+
+Security research is not only about discovering bugs but also about understanding the deeper patterns that lead to vulnerabilities.
+
+My work focuses on:
+
+* studying recurring exploit patterns
+* analyzing protocol design risks
+* developing structured auditing frameworks
+* exploring the role of AI in improving security research
+
+See the full research philosophy here:
+
+RESEARCH_MANIFESTO.md
+
+---
+
+## Research Roadmap
+
+To understand the long-term direction of this research initiative, see:
+
+RESEARCH_ROADMAP.md
+
+---
+
+## Publications
+
+* **Web3 Security Essentials: Your Journey and Roadmap to Mastering the Art and Science of Smart Contract Security**
+
+This publication provides a structured roadmap for learning smart contract security and understanding the vulnerabilities that affect decentralized systems.
+
+Original launch post:
+https://x.com/0xfirmanregar/status/1859620314126352519
