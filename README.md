@@ -31,11 +31,11 @@ This repository contains:
 - Audit reports and protocol analyses
 - Contest findings and vulnerability writeups
 - AI-assisted auditing experiments
-- My ULTRA-P structured auditing methodology
+- My ULTRA-PREMIUM structured auditing methodology
 
 ## Methodology
 
-One of my primary research frameworks is **ULTRA-P**, a structured audit approach that focuses on:
+One of my primary research frameworks is **ULTRA-PREMIUM**, a structured audit approach that focuses on:
 
 - Understanding protocol logic deeply
 - Locating high-risk attack surfaces
