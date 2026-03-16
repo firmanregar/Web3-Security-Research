@@ -63,7 +63,7 @@ This repository serves as a personal knowledge base and research hub covering:
 * **ai-security-research/** – exploration of AI-assisted auditing techniques
 * **ai-security-audit-frameworks/** – structured frameworks for LLM-based auditing
 * **methodologies/** – structured approaches to smart contract security analysis
-* **knowledge-base/** – vulnerability patterns, exploit techniques, and security insights
+* **vulnerability-patterns/** – vulnerability patterns, exploit techniques, and security insights
 
 ---
 
