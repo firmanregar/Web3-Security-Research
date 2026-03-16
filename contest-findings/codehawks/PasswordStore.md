@@ -1,4 +1,4 @@
-# First Flight #1: PasswordStore
+## PasswordStore
 [https://codehawks.cyfrin.io/c/2023-10-PasswordStore/s/777]
 
 100
@@ -8,7 +8,8 @@ Oct 18th, 2023 → Oct 25th, 2023
 
 ## Submission Details
 Severity: **High**
-Non-protected Setter allow the caller to change password of the contracts
+
+## Non-protected Setter allow the caller to change password of the contracts
 
 firmanregar
 
