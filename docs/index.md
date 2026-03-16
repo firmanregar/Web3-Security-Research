@@ -57,5 +57,3 @@ Web3 Security Essentials: Your Journey and Roadmap to Mastering the Art and Scie
 ## Research Vision
 
 The goal of this research initiative is to explore methods that improve the security of decentralized financial systems through structured analysis, vulnerability pattern discovery, and AI-assisted security research.
-
-Long-term, this work may evolve into a broader research initiative under DeltaSierra Labs.
