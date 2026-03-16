@@ -20,7 +20,7 @@ Maintained by **Firman Siregar**, a smart contract security researcher exploring
 
 - 🔬 Security Research → security-research/  
 - 🤖 AI Security Research → ai-security-research/  
-- 🧪 AI Audit Prompt Packs → ai-audit-prompt-packs/  
+- 🧪 AI Security Audit Frameworks → ai-security-audit-frameworks/  
 - 📊 Exploit Case Studies → exploit-case-studies/  
 
 ### Practical Work
@@ -61,7 +61,7 @@ This repository serves as a personal knowledge base and research hub covering:
 * **contest-findings/** – vulnerability findings from security competitions
 * **security-research/** – technical research articles on smart contract security
 * **ai-security-research/** – exploration of AI-assisted auditing techniques
-* **ai-audit-prompt-packs/** – structured prompt frameworks for LLM-based auditing
+* **ai-security-audit-frameworks/** – structured frameworks for LLM-based auditing
 * **methodologies/** – structured approaches to smart contract security analysis
 * **knowledge-base/** – vulnerability patterns, exploit techniques, and security insights
 
