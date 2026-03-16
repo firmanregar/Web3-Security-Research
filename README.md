@@ -49,8 +49,12 @@ One of my primary research frameworks is **ULTRA-PREMIUM**, a structured audit a
 ## Research Roadmap
 
 See the long-term research direction here:
-
 RESEARCH_ROADMAP.md
+
+## Research Philosophy
+
+See my approach to smart contract security research:
+RESEARCH_MANIFESTO.md
 
 ## Long-Term Vision
 
