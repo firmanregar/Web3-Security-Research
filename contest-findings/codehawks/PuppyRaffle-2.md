@@ -9,7 +9,7 @@ Oct 25th, 2023 → Nov 1st, 2023
 ## Submission Details
 Severity: **High**
 
-# Potential reentrancy in `PuppyRaffle.refund(uint256)` would allow the miner to claim the refund
+## Potential reentrancy in `PuppyRaffle.refund(uint256)` would allow the miner to claim the refund
 
 firmanregar
 
