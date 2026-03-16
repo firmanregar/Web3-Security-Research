@@ -1,4 +1,4 @@
-# First Flight #2: Puppy Raffle
+## Puppy Raffle
 [https://codehawks.cyfrin.io/c/2023-10-Puppy-Raffle/s/820]
 
 100
@@ -7,8 +7,9 @@ EXP
 Oct 25th, 2023 → Nov 1st, 2023
 
 ## Submission Details
-Severity:
-`selectWinner()` uses a weak PRNG so the miner could potentially manipulate the block timestamp or block difficulty to influence the outcome of the raffle
+Severity: **High**
+
+# `selectWinner()` uses a weak PRNG so the miner could potentially manipulate the block timestamp or block difficulty to influence the outcome of the raffle
 
 firmanregar
 
