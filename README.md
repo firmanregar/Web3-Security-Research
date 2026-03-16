@@ -1,4 +1,10 @@
 # Smart Contract Security Research
+![Research](https://img.shields.io/badge/Research-Smart%20Contract%20Security-blue)
+![Focus](https://img.shields.io/badge/Focus-DeFi%20Security-purple)
+![AI](https://img.shields.io/badge/AI-Assisted%20Auditing-green)
+![Ecosystems](https://img.shields.io/badge/Ecosystems-EVM%20%7C%20Solana%20%7C%20Move%20%7C%20NEAR-orange)
+![Status](https://img.shields.io/badge/Status-Active%20Research-brightgreen)
+![Publication](https://img.shields.io/badge/Publication-Web3%20Security%20Essentials-yellow)
 
 A curated research repository focused on smart contract security, DeFi protocol risk analysis, and AI-assisted auditing methodologies.
 
@@ -66,3 +72,19 @@ This publication provides a structured roadmap for learning smart contract secur
 
 Original launch post:
 https://x.com/0xfirmanregar/status/1859620314126352519
+
+---
+
+## Security Research Profile
+
+Learn more about my background and research focus:
+
+SECURITY_RESEARCH_PROFILE.md
+
+---
+
+## Contributing
+
+Contributions that advance smart contract security research are welcome.
+
+See CONTRIBUTING.md for contribution guidelines.
