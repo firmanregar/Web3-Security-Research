@@ -9,7 +9,7 @@ Oct 25th, 2023 → Nov 1st, 2023
 ## Submission Details
 Severity: **High**
 
-# `selectWinner()` uses a weak PRNG so the miner could potentially manipulate the block timestamp or block difficulty to influence the outcome of the raffle
+## `selectWinner()` uses a weak PRNG so the miner could potentially manipulate the block timestamp or block difficulty to influence the outcome of the raffle
 
 firmanregar
 
