@@ -1,59 +1,112 @@
-# Web3 Security Research Lab
+# Web3 Security Research Lab  
+### Smart Contract Security • DeFi Risk Analysis • AI-Assisted Auditing
 
-Welcome to the Web3 Security Research Lab — a research initiative focused on exploring smart contract security, DeFi exploit analysis, and AI-assisted auditing.
+Welcome to my research lab.
 
-This repository documents ongoing research into vulnerability discovery, exploit intelligence, and security methodologies for decentralized systems.
-
-**Researcher:** Firman Siregar  
-**Focus:** Smart Contract Security · DeFi Exploit Intelligence · AI-Assisted Auditing  
-
-Exploring vulnerability discovery, protocol threat modeling, and AI-augmented security research for decentralized systems.
+I am **Firman Siregar**, a smart contract security researcher focused on understanding how DeFi protocols fail — and how to systematically detect those failures.
 
 ---
 
-## Research Areas
+## 🧠 Research Focus
 
-### Smart Contract Security
+This lab explores three core areas:
 
-Research on vulnerability patterns, protocol attack surfaces, and DeFi security risks.
+- **DeFi Attack Surfaces**  
+  How protocol design creates hidden risks
 
-### Exploit Intelligence
+- **Exploit Pattern Recognition**  
+  Learning from real-world incidents to identify recurring vulnerabilities
 
-Structured analysis of real-world DeFi exploits to identify recurring vulnerability patterns.
-
-### AI-Assisted Auditing
-
-Experiments exploring how AI can augment the workflow of smart contract security researchers.
-
----
-
-## Key Projects
-
-### AI Security Experiments
-
-Exploring AI-assisted approaches for security analysis.
-
-* DeFi Attack Surface Mapping
-* AI Audit Hypothesis Generation
-* AI Exploit Reconstruction
-* AI Protocol Invariant Discovery
-
-### Exploit Case Studies
-
-Analysis of historical DeFi incidents and attack patterns.
-
-### Security Methodologies
-
-Structured frameworks for conducting smart contract security reviews.
+- **AI-Assisted Auditing**  
+  Using structured prompts and models to improve vulnerability discovery
 
 ---
 
-## Publications
+## 🔬 Flagship Research
 
-Web3 Security Essentials: Your Journey and Roadmap to Mastering the Art and Science of Smart Contract Security.
+### The Anatomy of DeFi Exploits  
+**Adversarial Thinking vs Broken Invariants**
+
+This research distills insights from 100 real-world DeFi incidents into a structured framework:
+
+- how attackers think  
+- what assumptions protocols break  
+- why exploits repeatedly occur  
+
+👉 [Explore Vulnerability Patterns](../vulnerability-patterns/)
 
 ---
 
-## Research Vision
+## 📊 Core Research Areas
 
-The goal of this research initiative is to explore methods that improve the security of decentralized financial systems through structured analysis, vulnerability pattern discovery, and AI-assisted security research.
+### 🔴 Exploit Case Studies
+Breakdowns of real-world DeFi incidents and attack execution.
+
+👉 `exploit-case-studies/`
+
+---
+
+### 🔵 Vulnerability Patterns
+Generalized failure modes derived from multiple exploits.
+
+👉 `vulnerability-patterns/`
+
+---
+
+### 🟣 AI Security Research
+Exploring how AI can assist in smart contract auditing.
+
+👉 `ai-security-research/`
+
+---
+
+### 🟡 Audit Frameworks
+Structured methodologies for analyzing smart contracts.
+
+👉 `ai-security-audit-frameworks/`
+
+---
+
+## 🛡️ Practical Work
+
+- **Audit Reports** → `audit-reports/`  
+- **Contest Findings** → `contest-findings/`  
+
+---
+
+## 📘 Publications
+
+**Web3 Security Essentials**  
+A structured roadmap to mastering smart contract security.
+
+---
+
+## 🚀 100 Days of DeFi Incident Study
+
+A long-form research project analyzing real-world exploits.
+
+👉 https://x.com/0xfirmanregar/status/2029946793761591459
+
+---
+
+## 🧭 Research Philosophy
+
+Security is not just about finding bugs.
+
+It is about understanding:
+
+- how systems fail  
+- how attackers think  
+- how assumptions break under adversarial conditions  
+
+---
+
+## 🤝 Connect
+
+If you're working on:
+
+- smart contract security  
+- DeFi protocol design  
+- AI-assisted auditing  
+
+I’m open to collaboration and research opportunities.
