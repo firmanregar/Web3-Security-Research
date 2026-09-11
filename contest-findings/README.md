@@ -5,4 +5,5 @@ This section contains vulnerability reports and security findings from smart con
 Platforms:
 - Code4rena
 - CodeHawks
+- HackenProof
 - Sherlock
