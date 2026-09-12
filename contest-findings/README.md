@@ -26,6 +26,6 @@ Outcomes are preserved accurately: Confirmed, Confirmed OOS, Informational, or K
 16. ZNDXSCDD-96 — Known Issue / OOS
 17. ZNDXSCDD-61 — Informational Confirmed
 18. ZNDXSCDD-60 — Medium Confirmed OOS
-19. ZNDXSCDD-95 — Valid / Fix Shipping / OOS
+19. ZNDXSCDD-95 — **Valid / Fix Shipping / OOS**
 
 Private PoCs and confidential material are excluded.
