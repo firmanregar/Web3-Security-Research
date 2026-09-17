@@ -22,7 +22,7 @@ Outcomes are preserved accurately: Confirmed, Confirmed OOS, Informational, or K
 12. CETUSSC-423 — Informational Confirmed
 13. CETUSSC-439 — Confirmed technical finding / OOS
 14. CETUSSC-440 — Informational Confirmed
-15. ZNDXSCDD-73 — Known Issue / OOS
+15. ZNDXSCDD-73 — **Valid — High — Previously Unreported / OOS**
 16. ZNDXSCDD-96 — Known Issue / OOS
 17. ZNDXSCDD-61 — Informational Confirmed
 18. ZNDXSCDD-60 — Medium Confirmed OOS
