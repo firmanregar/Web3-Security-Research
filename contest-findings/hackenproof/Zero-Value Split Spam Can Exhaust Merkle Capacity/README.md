@@ -3,7 +3,7 @@
 **Program:** Zendex  
 **Platform:** HackenProof  
 **Report ID:** ZNDXSCDD-73  
-**Outcome:** Known Issue / OOS
+**Outcome:** Valid, High
 
 ## Summary
 
