@@ -4,7 +4,7 @@ Curated portfolio of **submitted smart contract security findings and confirmed 
 
 > **Economic invariants first. Code second.**
 
-Outcomes are preserved accurately: Confirmed, Confirmed OOS, Informational, or Known Issue.
+Outcomes are preserved accurately, including confirmed findings, scope determinations, informational observations, and known issues findings.
 
 ## Index
 
@@ -24,6 +24,6 @@ Outcomes are preserved accurately: Confirmed, Confirmed OOS, Informational, or K
 14. ZNDXSCDD-96 — Known Issue / OOS
 15. ZNDXSCDD-61 — Informational Confirmed
 16. ZNDXSCDD-60 — Medium Confirmed OOS
-17. ZNDXSCDD-95 — **Valid / Fix Shipping / OOS**
+17. ZNDXSCDD-95 — **Valid - Critical - Previously accepted as Fix Shipping / OOS**
 
 Private PoCs and confidential material are excluded.
