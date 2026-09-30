@@ -4,7 +4,7 @@ Curated portfolio of **submitted smart contract security findings and confirmed 
 
 > **Economic invariants first. Code second.**
 
-Outcomes are preserved accurately: Confirmed, Confirmed OOS, Informational, or Known Issue.
+Outcomes are preserved accurately, including confirmed findings, scope determinations, informational observations, and known issues findings.
 
 ## Index
 
